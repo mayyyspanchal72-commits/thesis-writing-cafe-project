@@ -8,7 +8,7 @@ This repository contains the complete project report for a comprehensive digital
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The primary objective of this project was to build and execute a multi-channel digital marketing strategy from the ground up. The goal was to improve website visibility, enhance SEO rankings, drive targeted traffic through paid and organic channels, and increase overall user engagement.
 
@@ -38,7 +38,7 @@ My work was divided into several key areas:
 * **Analytics & Reporting:**
     * Used Google Analytics (GA4) and Google Search Console to monitor, analyze, and report on all key performance indicators (KPIs), including traffic, engagement, and conversions.
 
-## 📈 Key Achievements & Results
+## Key Achievements & Results
 
 This campaign successfully established a strong digital footprint for the client, delivering measurable growth in visibility and traffic.
 
@@ -52,7 +52,7 @@ This campaign successfully established a strong digital footprint for the client
     * **Google Ads:** Delivered 1.5k clicks from a ₹7.08k budget with an efficient **₹4.74 Avg. CPC**.
     * **Meta Ads:** Drove 2.5k clicks from 40.8k impressions.
 
-## 💻 Technologies & Tools Used
+##  Technologies & Tools Used
 
 * **SEO Tools:** Ahrefs, SEMrush, Google Search Console, Google Keyword Planner
 * **Analytics:** Google Analytics 4 (GA4)
