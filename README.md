@@ -14,7 +14,7 @@ The primary objective of this project was to build and execute a multi-channel d
 
 As the sole executive on this project, I was responsible for all aspects of its implementation, from strategy and content creation to ad management and performance analysis.
 
-## 🛠️ Key Responsibilities & Execution
+##  Key Responsibilities & Execution
 
 My work was divided into several key areas:
 
