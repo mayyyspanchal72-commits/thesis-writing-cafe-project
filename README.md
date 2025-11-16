@@ -2,6 +2,9 @@
 
 This repository contains the complete project report for a comprehensive digital marketing campaign I personally managed and executed for **ThesisWritingCafe.com**.
 
+view above full Project Pdf.
+
+
 * **Project Website:** `https://thesiswritingcafe.com/`
 * **My Role:** Digital Marketing Executive
 * **Duration:** April 2025 – November 2025
